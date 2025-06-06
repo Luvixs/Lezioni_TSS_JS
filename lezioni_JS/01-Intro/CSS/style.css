@@ -1,0 +1,13 @@
+.txtBlue{
+    color:blue;
+}
+
+.txtRed{
+    color: red;
+}
+
+.dimImg{
+    width: 200px;
+    height: auto;
+    border-radius: 40px;
+}
