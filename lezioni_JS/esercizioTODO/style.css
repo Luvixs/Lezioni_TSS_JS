@@ -1,0 +1,9 @@
+.barrato {
+    text-decoration: line-through;
+}
+
+.oreDigi{
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
