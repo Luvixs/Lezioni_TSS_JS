@@ -49,7 +49,6 @@ postViaggi(viaggioNuovo)
 function postViaggi(viaggioNuovo){
     const URL = "http://localhost:3000/viaggi"
 
-    //uso la fetch con il metodo post per registrare un viaggio nel carrello
     fetch(URL, {
         method: "POST",
         headers: {
